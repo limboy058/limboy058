@@ -1,5 +1,3 @@
-## Hi there 👋
-
 hello! my
 ![Visitor Count](https://profile-counter.glitch.me/limbo-t/count.svg)
 visitor
