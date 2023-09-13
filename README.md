@@ -7,4 +7,4 @@
 <td><img height=200 src=https://github-readme-stats.vercel.app/api/top-langs/?username=limbo-t&show_icons=true&line_height=21&langs_count=6&theme=transparent></td>
 </tr></table>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=limbo-t&theme=github-light)](https://github.com/limbo-t/github-readme-activity-graph)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=limbo-t&theme=github-light)
